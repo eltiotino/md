@@ -16,3 +16,7 @@ after which it asks you for a pass word like this
 Enter password: 
 
 and then i typed in the password i used. That's all
+
+#### para desintalar 
+
+https://www.sololinux.es/desinstalar-mysql-server-en-ubuntu/
