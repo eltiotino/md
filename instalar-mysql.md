@@ -2,6 +2,12 @@ hacemos todos los pasos de
 
 https://comoinstalar.me/como-instalar-mysql-8-en-ubuntu/
 
+- wget https://dev.mysql.com/get/mysql-apt-config_0.8.16-1_all.deb
+- sudo dpkg -i mysql-apt-config_0.8.16-1_all.deb
+- sudo apt update
+- sudo apt -y install mysql-server
+- systemctl status mysql
+- mysql -u root -p 
 
 
 
