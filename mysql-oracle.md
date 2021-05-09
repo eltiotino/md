@@ -4,6 +4,11 @@ https://docs.oracle.com/en/java/java-components/advanced-management-console/2.21
 
 - sudo yum install mysql-community-server
 - sudo systemctl start mysqld
-- mysql -u root -p 
+
+ver la password
+
+- sudo grep 'A temporary password is generated for root@localhost' /var/log/mysqld.log |tail -1
+
+- sudo mysql -u root -p 
 
 
