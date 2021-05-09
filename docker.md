@@ -20,3 +20,7 @@
 - su -s ${USER}
 - sudo chmod 666 /var/run/docker.sock
 - 
+
+## Instalar docker compose en oracle
+
+https://dev.to/kylejschwartz/install-docker-compose-on-oracle-linux-8-1kb0
