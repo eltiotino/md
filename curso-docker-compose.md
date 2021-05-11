@@ -31,4 +31,23 @@ con el comando siguiente se ejecuta en segundo plano
 
 >>> docker compose up -d
 >>> 
+Con el seguiente detenemos eldocker-compose
+
+> docker-compose down
+> 
+
+Ahora hacemospara entrar por un puerto al contenedor.
+
+```
+version: "3.8"
+services: 
+  nginx:
+    image: nginx-alpine
+    ports:
+      - 8080:80
+```
+y ahora ejecutamos de nuevo el comando
+```bash
+docker compose up -d
+```
 
