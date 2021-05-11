@@ -50,4 +50,14 @@ y ahora ejecutamos de nuevo el comando
 ```bash
 docker compose up -d
 ```
+y vemos los servicios
+```
+docker compose ps
+```
+
+y ya puedo verlo en el puerto 8080
+```
+localhost:8080
+```
+
 
