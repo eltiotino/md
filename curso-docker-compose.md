@@ -2,17 +2,17 @@
 
 todo archivo de docker-compose tiene 4 apartados
 
-### version
-### servicios
-### volumes
-### redes
+>** version **
+>** servicios**
+>** volumes**
+>** redes**
 
 vamos a hacer nuestro primer docker-compose
 
-version: "3.8"
-services: 
-  nginx:
-    image: nginx-alpine
+>version: "3.8"
+>services: 
+>  nginx:
+>    image: nginx-alpine
     
    
 Con esto ya puedo crear mi primer comando
