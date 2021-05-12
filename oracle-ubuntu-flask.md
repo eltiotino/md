@@ -11,3 +11,5 @@ sudo firewall-cmd --reload
 ```
 
 hay un problema con el tipo de red
+
+https://developer.oracle.com/oracle-cloud-infrastructure/compute-vm-simple-tutorial/
