@@ -56,12 +56,28 @@
 ## 3.4 Series Estacionarias
 ### 3.4.1.- Proceso estacionario
 ### 3.4.2.- Test de Dickey-Fuller
-### 3.4.2.- La importancia de ser Estacionario
-### 3.4.3.- Predicción
+### 3.4.3.- La importancia de ser Estacionario
 ### 3.4.4.- Intro a los modelos Arima
 
 ## 3.5.- Práctica Elaboración de la Previsión de una serie temporal
 
 # Dia 4
 
-## 
+## 4.1.- Que es el método científico
+## 4.2.- Predicción
+## 4.3.- valid
+acion hipotesis
+## 4.4.- El T Test como validador de hipótesis
+## 4.5.- Regresion lineal y validar hipótesis
+## 4.5.1.- Validar el modelo regresion lineal
+## 4.5.2.- Análisis de los residuos
+## 4.6.- Evaluación Fuera de Muestra: Predicción
+## 4.7.- Medir el ajuste
+
+# Dia 5
+
+## Aplicar lo aprendido a un ejemplo concreto
+
+# Dia 6
+
+## Dia 6.1.- Python
