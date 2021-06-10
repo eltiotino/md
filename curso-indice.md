@@ -2,9 +2,9 @@
 
 # Día 1
 
-## 1.-Estadístistica Descriptiva
+#### 1.-Estadístistica Descriptiva
 
-### 1.1.- Que es estadística ?
+##### 1.1.- Que es estadística ?
 ### 1.2.- Tipos de distibución
 ### 1.3.- Tipos de datos
 
