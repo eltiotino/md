@@ -28,3 +28,6 @@ introducir el código y cambiar la contraseña
 https://gianniceresa.com/2019/12/jupyter-sandbox-in-an-oracle-cloud-compute-instance/
 
 
+# instalar talib
+  
+  https://stackoverflow.com/questions/49648391/how-to-install-ta-lib-in-google-colab/49660479
