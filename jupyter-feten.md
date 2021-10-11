@@ -16,6 +16,12 @@ sudo jupyter serverextension enable --py jupyterlab --sys-prefix
 jupyter lab --ip 0.0.0.0 --port 8888 --no-browser
 ```
 
+## Cambiar contraseña
+
+Now open the web browser and put the URL as http://<<static ip of VM>>:8888. This will show the screen as below.
+
+introducir el código y cambiar la contraseña
+
 
 ## para configurar el firewall
 
