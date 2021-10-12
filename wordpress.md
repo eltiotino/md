@@ -93,16 +93,25 @@ veremos si está correcto.
   
   ```
   
-## seleccionamos el nivel de password y la password
+seleccionamos el nivel de password y la password
+
   
+# Establecer contraseña root
+
+Para establecer la contraseña vamos a usar el comando mysqladmin. Debemos poner la contraseña entre comillas.
 ```
-  sudo mysql
-  
-  
+
+sudo mysqladmin --user=root password “[USER_PASSWORD]”
 ```
-vemos las databases que existen con el promt de mysql
-  ```
-  show databases;
-  ```
-  
+Verificar contraseña root
+
+Verificaremos que a partir de ahora no se pueder acceder a MySQL sin contraseña.
+```
+sudo mysql
+```
+Como ven, no nos deja acceder. Así que utilizaremos la contraseña que acabamos de establecer.
+```
+sudo mysql -p -u root
+```
+
   
