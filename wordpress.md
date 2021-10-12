@@ -44,3 +44,10 @@ sudo firewall-cmd --zone=public --permanent --add-port=80/tcp
 sudo firewall-cmd --reload
 
 ```
+# Instalamos apache
+
+```
+sudo apt -y install apache2
+sudo systemctl restart apache2
+
+```
