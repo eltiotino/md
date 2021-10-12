@@ -57,11 +57,52 @@ vemos si se ve la página de inicio de apache en la ip de la maquina
 
 ```
 sudo apt -y install php
-sudo apt -y install php-mysql php-curl php-gd php-zip
+sudo apt -y install php-mysql php-curl php-gd php-zipsudo chmod -R g+rw /var/www/html
 php -v
 sudo systemctl restart apache2
 sudo nano /var/www/html/info.php
 
 ```
 
+
 en nano incluimos la siguiente
+```
+<?php
+phpinfo();
+?>
+```
+
+si vamos a la direccion ip y tecleamos
+Connect to **http://<your-public-ip-address>/info.php**.
+  
+veremos si está correcto.
+  
+# Configurar Apache Directorio
+  
+```
+  sudo adduser $USER www-data
+ ww-data:www-data /var/www/html
+  sudo chmod -R g+rw /var/www/html
+  ```
+# instalar mysql
+
+```
+  sudo apt -y install mysql-server
+  sudo mysql_secure_installation
+  
+  
+  ```
+  
+## seleccionamos el nivel de password y la password
+  
+```
+  sudo mysql
+  
+  
+```
+vemos las databases que existen con el promt de mysql
+  ```
+  show databases;
+  ```
+  
+  
