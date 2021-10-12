@@ -101,17 +101,35 @@ seleccionamos el nivel de password y la password
 Para establecer la contraseña vamos a usar el comando mysqladmin. Debemos poner la contraseña entre comillas.
 ```
 
-sudo mysqladmin --user=root password “[USER_PASSWORD]”
-```
-Verificar contraseña root
 
 Verificaremos que a partir de ahora no se pueder acceder a MySQL sin contraseña.
 ```
 sudo mysql
+mysql> CREATE USER 'ubuntu'@'localhost' IDENTIFIED BY '28.Toltema.56';
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'ubuntu'@'localhost';
+mysql> create database wpdb;
+mysql>show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
+| wpdb               |
++--------------------+
+5 rows in set (0.00 sec)
+  
+mysql>quit;
 ```
-Como ven, no nos deja acceder. Así que utilizaremos la contraseña que acabamos de establecer.
-```
-sudo mysql -p -u root
+  
+# Instalar y Configurar Wordpress
+  mkdir tmp
+  cd tmp
+  wget https://wordpress.org/latest.tar.gz
+  tar xvfz latest.tar.gz
+  
+  cp -R /home/ubuntu/tmp/wordpress/* /var/www/html
 ```
 
   
