@@ -51,3 +51,17 @@ sudo apt -y install apache2
 sudo systemctl restart apache2
 
 ```
+vemos si se ve la página de inicio de apache en la ip de la maquina
+
+# Instalamos PHP
+
+```
+sudo apt -y install php
+sudo apt -y install php-mysql php-curl php-gd php-zip
+php -v
+sudo systemctl restart apache2
+sudo nano /var/www/html/info.php
+
+```
+
+en nano incluimos la siguiente
