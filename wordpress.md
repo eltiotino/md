@@ -1,5 +1,8 @@
 # Instalar wordpress
 
+https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/wp-on-ubuntu/01-summary.htm
+
+
 
 ```
 sudo apt update && sudo apt upgrade
