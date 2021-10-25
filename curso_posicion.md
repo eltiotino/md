@@ -217,5 +217,16 @@ Los diferentes aspectos de las palabras claves
 Podemos empezar con google adwords 
     https://ads.google.com/intl/es_es/home/tools/keyword-planner/
     
+ahhí podemos contrastar 
+ - El número de internautas en el pais y lengua que buscan la palabra
+ - El número de internautas en el mundo que buscan la palabra
+ - la competencia que existe en la palabra
+ - la tendencia de esta palabra
 
+ las palabras clave han de situarse en el **URL** de la página
+ En las primeras frases del artículo
+ que aparezcan en H1 y H2
+ etqiquetar las imagenes
+ 
+ 
 
