@@ -156,6 +156,32 @@ estan basadas en:
 
 ### keywordstuffing
 
+ adicionar una palabras multiples veces sin calidad
  
+### Tiered link building
+ 
+- nivel 1 : son donde se colocan los enlaces que apuntan a la web. Deben ser relavantes
+- nivel 2 : la calidad no es tan relevante, proceden de blogs foros etc...
+- nivel 3 : spam
+
+## tipos de busqueda
+
+ - Busquedas de información
+ - Búsquedas de información
+ - Busquedas transaccionales
+
+# Palabras Clave
+
+Resultan primordiales. Saber como utilizar las palabras clave y optimizar el contenido es básico.
+existen diferentes herramientas para ello
+ - Keywordtool de google adsword
+    https://ads.google.com/intl/es_es/home/tools/keyword-planner/
+ - ubbersuggest
+    https://neilpatel.com/es/ubersuggest/
+ - KW finder
+    https://kwfinder.com/es/
+    
+    
+
 
 
