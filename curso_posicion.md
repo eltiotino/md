@@ -190,6 +190,32 @@ Atravesde la app **mozbar**, nos va a devolver
  - **DA** el nivel de autoridad del dominio
  - **span** el nivel de span del dominio
 
+contra mas alto mas dificil de competir
 
+## Optimizar una pagina 
+
+### El título de la página
+ Se recomienda utilizar la palabra clave en el título
+ 
+### Descripcion de la página
+ 156 caracteres que son utilizados para describir la página
+### Palabras Clave
+ Se pueden incluir todas las que queramos pero se recomienda. Pero contra menos mejor.
+### Incluir titulo y texto en cada imagen
+### Hacer uso de los encabezados H1 y H2
+### Optimizacion de enlace con palabra clave
+
+
+## Importancia de las palabras clave
+
+Crear una base de palabras clave
+Los diferentes aspectos de las palabras claves
+ - Claves de competencia 
+ - Nivel de competencia
+ - keywords faciles frente a dificiles
+
+Podemos empezar con google adwords 
+    https://ads.google.com/intl/es_es/home/tools/keyword-planner/
+    
 
 
