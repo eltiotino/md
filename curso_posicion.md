@@ -103,6 +103,59 @@ se filtra por todo tipo de contenido.
 la página que visualiza los resultados
 
 
+### Consejos para optimizar la busqueda ( GOOGLE )
 
+ - Proporcionar diferentes palabras
+ - si se busca algo concreto, proporcionar la frase a buscar
+ - Seguir el rastro de la direccion de la pagina acortandola
+ - buscar en páginas parecidas
+
+### Trucos
+ - hacer una busqueda previa e ir afinando
+ - buscar terminos de busqueda  mas especificos 
+ - excluir informacion
+ - ' entrecomillar expresiones '
+ - Proporcionar alternativas
+
+
+## Tráfico Cualificado
+
+La promoocion es la tarea básica para otener exito  en internet
+
+El SEO, una web atractiva y una buena navegabilidad es fundamental
+Para obtener relevancia depende de palabras clave. Debemos de seleccionar esas palabras clave.
+Se debe de establecer un plan concreto que defina la estrategia.
+Existen diversas estrategias
+
+estan basadas en:
+ - planes de marketing
+ - cura de contenidos
+ - palabras clave
+ - analisis de resultados
+ - navegación
+ - estudios de mercado
+
+
+## BLACK HAT
+
+ en SEO se llama BLACK HAT a las técnicas para mejorar el posicionamiento, mediante técnicas poco éticas.
+ Notaron que los resultados eran facilemnte modificables y por tanto ahora se penalizan.
+ 
+ Algunas de las técnicas son:
+ 
+### BAcklinking 
+
+ el backlink es un enlace desde una web externa a nuestra web. 
+ Pueden ser enlaces
+  - Dofollow
+  - Nofollow que son mas convenientes.
+ 
+ Para hacer backlinking debemos 
+  - buscar webs de referncia en el sector en concreto
+  - el contenido es muy importante
+
+### keywordstuffing
+
+ 
 
 
