@@ -182,6 +182,14 @@ existen diferentes herramientas para ello
     https://kwfinder.com/es/
     
     
+## Conocimiento del nivel de Competencia
+
+Atravesde la app **mozbar**, nos va a devolver 
+
+ - **PA** el nivel de autoridad de la página
+ - **DA** el nivel de autoridad del dominio
+ - **span** el nivel de span del dominio
+
 
 
 
