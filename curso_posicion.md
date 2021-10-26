@@ -194,6 +194,8 @@ contra mas alto mas dificil de competir
 
 ## Optimizar una pagina 
 
+un buen ejemplo en esta página https://www.adrenalina.es/seo-on-page-factores-importantes/
+
 ### El título de la página
  Se recomienda utilizar la palabra clave en el título
  
