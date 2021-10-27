@@ -141,6 +141,8 @@ estan basadas en:
  en SEO se llama BLACK HAT a las técnicas para mejorar el posicionamiento, mediante técnicas poco éticas.
  Notaron que los resultados eran facilemnte modificables y por tanto ahora se penalizan.
  
+ puedes aprender https://youtu.be/kShA7p5wM2U
+ 
  Algunas de las técnicas son:
  
 ### BAcklinking 
