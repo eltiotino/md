@@ -231,4 +231,4 @@ ahhí podemos contrastar
  etqiquetar las imagenes
  
  
-
+un ejemplo puede ser https://ahrefs.com/blog/landing-page-seo/
