@@ -56,6 +56,15 @@ Estos son algunos factores de este tipo de SEO que hay que tener en cuenta:
   - **Marketing en redes sociales**. Construir una fuerte presencia en las redes sociales es importante para tu negocio. Es un recurso para que los usuarios verifiquen su reputación. Publicar contenido atractivo en las redes sociales ayuda a llegar a un público más amplio. Además, si tu contenido consigue obtener tráfico de distintas partes del mundo, el motor de búsqueda verá que tu sitio es digno de confianza.
   - **Marketing de influencers**. Establecer relaciones con marcas o personas influyentes es una forma excelente de crear conciencia de marca. Si se hace bien, el marketing de influencers puede ayudar a respaldar tu marca y atraer nuevas audiencias a tu sitio. De este modo, puedes conseguir más tráfico y reconocimiento.
   - **Foros**. Las páginas de foros como Quora, Reddit y Stack Overflow son una excelente oportunidad para promocionar tu sitio web. Allí, puedes participar en conversaciones reales entre usuarios respondiendo a preguntas, lo que te permite mostrar tu experiencia y credibilidad. Además, puedes añadir un enlace a una página de tu sitio y dirigir el tráfico de búsqueda orgánica.
+  - 
+Este proceso es crear backlinks. A continuación te ofrecemos algunos consejos de SEO para construir backlinks de calidad hacia tu sitio:
+
+  - **Generar contenido de calidad**. Es esencial ofrecer un contenido completo e informativo en tu sitio. Esto ayuda a otros sitios a juzgar tu autoridad y a determinar si vale la pena enlazar a tu página.
+  - **Escribir en un blog como invitado**. Se trata de escribir una entrada para otra web o blog. A cambio, te permiten añadir backlinks en el post o en la sección de biografía del autor. Además, obtienes el reconocimiento de la marca y la exposición a un público más amplio, lo que desencadena más tráfico orgánico hacia tu sitio.
+  - **Analizar los backlinks de la competencia**. Vigilar a la competencia te permite identificar los sitios web que podrían enlazar al tuyo. Herramientas como Monitor Backlinks y Ahrefs Link Intersect te permitirán monitorizar las oportunidades de backlinks. Una vez que hayas hecho una lista de los sitios que enlazan a tu competidor, ponte en contacto con los dueños de los sitios y hazles llegar tu propuesta.
+  - **Link building con enlaces rotos**. Esta técnica consiste en encontrar errores HTML 404 en una página web y notificar al propietario del sitio. Esto te permite sugerir tu página como alternativa para reemplazar el enlace roto. Puedes utilizar Ahrefs para explorar e identificar los enlaces rotos en una web.
+
+
 
 ## SEO técnico
 
