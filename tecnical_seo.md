@@ -49,7 +49,7 @@ Se refiere a la descripción breve de las páginas en las SERP, que aparecen com
 Si quieres saber como son los metatags
 [Todo sobre los MetaTags](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/los-meta-tags-mas-importantes-y-su-funcion/)
 
-Los administradores de páginas web cuentan con el apoyo de generadores de meta tags gratuitos en Internet como [miarroba.es](https://miarroba.es) o [www.metatags.org](www.metatags.org).
+Los administradores de páginas web cuentan con el apoyo de generadores de meta tags gratuitos en Internet como [miarroba.es](https://miarroba.es) o [www.metatags.org](https://www.metatags.org/seo-tips/why-use-meta-tags/metatags-generator/).
 
 
 ## SEO off-page
