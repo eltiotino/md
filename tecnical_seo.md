@@ -88,6 +88,21 @@ Si quieres que tu negocio aparezca en estas posiciones, presta mucha atención a
   - **Contenido localizado**. Al dirigirse a un grupo demográfico específico, el contenido localizado puede ayudar a mejorar la visibilidad de la página web de tu negocio. Crea contenido relevante a nivel local que satisfaga la demanda de tu público objetivo. Desde entradas de blog y guías hasta estudios de casos y recomendaciones, asegúrate de elegir los que se ajusten al nicho de tu negocio.
   - **Reseñas de clientes**. Las reseñas demuestran que los clientes confían en tu negocio y Google notará esto. Por lo tanto, empieza a animar a tus clientes a que dejen sus comentarios. Puedes hacerlo enviándoles un correo electrónico o proporcionándoles una página de reseñas. Dado que Google también tiene en cuenta las opiniones de terceros, asegúrate de supervisar tus opiniones online.
 
+## ¿Dónde aprender más sobre SEO?
+
+Aprender sobre SEO desde cero requiere mucho tiempo y paciencia. Además de comprender los fundamentos del SEO, necesitarás recursos para aprender los fundamentos del marketing digital y cómo funcionan los motores de búsqueda.
+
+Para ayudarte a empezar, hemos recopilado algunos de los mejores recursos de aprendizaje de SEO disponibles:
+
+  - **Blog del Centro de la Búsqueda de Google**. Este blog te mantiene al día sobre el algoritmo siempre cambiante de Google. Proporciona documentación sobre los factores SEO más recientes, las tendencias, las prácticas SEO, las nuevas funciones de búsqueda de Google y las actualizaciones centrales.
+  - **Ahrefs**. El blog de Ahrefs ofrece una amplia selección de guías y artículos sobre SEO y marketing. Presenta contenido actualizado y relevante escrito por expertos en SEO y profesionales del marketing.
+  - **MOZ**. Además de las herramientas y el software SEO, Moz cuenta con un blog en inglés muy completo y un centro de aprendizaje. Ofrece todo tipo de información, desde consejos de expertos en SEO hasta datos recientes sobre el mercado e información para mejorar tus habilidades de marketing.
+  - **Search Engine Journal**. Esta plataforma online presenta las últimas noticias sobre SEO, análisis y guías de expertos en marketing y SEO. El contenido abarca desde consejos de SEO para principiantes hasta estrategias y prácticas avanzadas. Además, el sitio web brinda diversos recursos, como libros electrónicos, podcasts y seminarios web.
+  - **Search Engine Roundtable**. Este sitio web recopila los hilos más interesantes de los foros de SEO y ofrece más detalles sobre ellos. Permite a los usuarios acceder a información de diferentes foros sobre temas recientes de SEO en un solo lugar.
+  - **Backlinko**. Con formación en SEO y estrategias de link building, Backlinko es un popular blog de marketing dirigido por un experto en SEO que ayuda a hacer crecer los negocios online. El contenido gira en torno a consejos, técnicas y casos prácticos de SEO.
+
+
+
 https://learningseo.io/seo-fundamentals/technical-seo/
 
 ## Velocidad de carga de la página
