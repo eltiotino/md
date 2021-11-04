@@ -45,6 +45,7 @@ Dividir el contenido en piezas con etiquetas de encabezado proporciona una mejor
 El texto alternativo es un atributo que describe una imagen específica que el sitio no puede mostrar y es útil para los usuarios con problemas de visión. Los lectores de pantalla utilizan la información del texto alternativo para describir la imagen. Este texto informa al motor de búsqueda que la imagen es una pieza valiosa de tu contenido. Esto proporciona oportunidades adicionales de posicionamiento orgánico para tu página, ya que puede aparecer en los resultados de búsqueda de imágenes de Google.
 ### Meta descripción. 
 Se refiere a la descripción breve de las páginas en las SERP, que aparecen como fragmentos junto con el título de la página y la URL. Las meta descripciones incluyen palabras clave y describen con precisión la información que ofrece la página. Una buena meta descripción puede generar más clics y reducir las tasas de rebote si el contenido satisface la intención del usuario.
+[Generador de MetaTags](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/los-meta-tags-mas-importantes-y-su-funcion/)
 
 ## SEO off-page
 
