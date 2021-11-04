@@ -29,6 +29,14 @@ La clave para optimizar el SEO con la investigación de palabras clave es apunta
   - **Dificultad de palabra clave**. También conocida como competencia de palabra clave, esta métrica mide qué tan difícil es posicionarse para una palabra clave en los resultados de búsqueda orgánica de Google.
 Afortunadamente, herramientas SEO como Ahrefs, SEMrush y Google Keyword Planner pueden identificar fácilmente estas métricas.  
 
+#### Las intenciones de búsqueda
+Los algoritmos de los motores de búsqueda ayudan a presentar resultados específicos a los usuarios en función del propósito de su búsqueda. Las cuatro intenciones de búsqueda principales y actuar en consecuencia.
+
+  - **Informativa**. Se refiere a los usuarios que quieren saber o aprender sobre algo. Las búsquedas para esta intención incluyen, entre otras, frases con «cómo», «quién es» y «qué es».
+  - **De navegación**. Los usuarios con esta intención buscan visitar sitios específicos. En lugar de escribir la URL en la barra de direcciones, los usuarios optan por navegar a través de Google. Algunos ejemplos de búsquedas con esta intención son «Acceso a Reddit», «Facebook», «Spotify».
+  - **Comercial**. Los usuarios suelen realizar esta búsqueda antes de realizar una compra. Investigan y comparan varias marcas, productos o servicios para encontrar la mejor opción. Una consulta común para esta intención de búsqueda se parece a «ordenadores portátiles para juegos 2021» o «los mejores restaurantes cerca mío».
+  - **Transaccional**. Estos buscadores se dirigen a un producto o servicio específico para comprar. Las búsquedas suelen incluir nombres de marcas, como «Comprar Samsung Galaxy S20» o «Venta de Air Jordan Retro».
+
 ### Etiqueta de título. 
 También conocida como título de página, aparece como un enlace cliqueable que la gente ve en las páginas de resultados del motor de búsqueda. Determina la relevancia de la página para la intención de búsqueda del usuario. Un título bien escrito generará más clics y conducirá más tráfico a la página. Además, los motores de búsqueda como Google favorecen y posicionan más alto los títulos concisos que contienen palabras clave.
 ### Etiquetas de encabezado. 
