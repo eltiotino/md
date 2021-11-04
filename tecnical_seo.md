@@ -22,6 +22,7 @@ La investigación de palabras clave es esencial para la optimización SEO. Te mu
   - **Sinónimas**. Palabras clave con el mismo significado pero compuestas de forma diferente que atraen resultados de búsqueda similares. Por ejemplo, «cómo arreglar auriculares rotos» puede cambiarse por «cómo reparar auriculares rotos».
   - **Long-tail (cola larga)**. Frases más largas y particulares que responden a una consulta de búsqueda específica. Suelen tener tres o más palabras clave, como «receta de galletas de chocolate sin gluten».
   - **Semánticamente relacionadas**. Estas palabras clave están conceptualmente relacionadas entre sí. Por ejemplo, «visitar Los Ángeles» está semánticamente relacionado con «billetes de avión a Los Ángeles» y «mejores destinos en Los Ángeles».
+
 La clave para optimizar el SEO con la investigación de palabras clave es apuntar a un tema relevante para tu sector que tenga un buen potencial de tráfico teniendo en cuenta métricas como:
   - **Volumen de búsqueda**. Determina cuántas personas buscan una consulta específica en un tiempo determinado y se suele medir con datos a nivel nacional.
   - **Dificultad de palabra clave**. También conocida como competencia de palabra clave, esta métrica mide qué tan difícil es posicionarse para una palabra clave en los resultados de búsqueda orgánica de Google.
