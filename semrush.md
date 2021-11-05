@@ -1,7 +1,9 @@
 # Semrush
 
 ##    ¿Qué es SEMRUSH?
-Se trata de una herramienta para cuestiones como hacer seguimiento de posiciones, analizar los errores OnPage, analizar las consultas de búsqueda de los usuarios (keywords) o revisar los enlaces entrantes de una determinada web.
+
+SEMrush es una herramienta de web analytics responsable de entregar datos consolidados sobre búsquedas de usuarios y posicionamiento en la SERP de Google (tu puesto en los resultados de búsqueda). Puedes utilizarlo tanto para obtener resultados sobre tu dominio como para conocer mejor a tus competidores.
+
 
 
 
