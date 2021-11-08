@@ -3,6 +3,7 @@
 ## dos paginas web de empresas
 
 https://x-trader.net
+
 https://www.novatostradingclub.com
 
 ## dos backlinks
