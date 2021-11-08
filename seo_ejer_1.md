@@ -1,11 +1,11 @@
 # ejercicio 1
 
-dos paginas web de empresas
+## dos paginas web de empresas
 
 https://x-trader.net
 https://www.novatostradingclub.com
 
-  dos backlinks
+## dos backlinks
   
   aunque quizás sean al exterior
   
