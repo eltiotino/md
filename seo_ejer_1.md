@@ -39,8 +39,10 @@ tenemos tambien aplicacion en la que podemos ver las repeticiones de palabras
 
 https://tagcrowd.com/
 
-```html
- cada (5) cartera (17) carteras (9) cliente (6) ello (6) equipo (5) fondos (19) gestia (6) herramienta (7) inversia (13) is (10) metatrader (5) modo (5) perfil (6) rentabilidad (5) riesgo (7) siguiente (7) squeeze (6) ttm (6) versa (14) ```
+```
+ cada (5) cartera (17) carteras (9) cliente (6) ello (6) equipo (5) fondos (19) gestia (6) herramienta (7) inversia (13) is (10) metatrader (5) modo (5) perfil (6) rentabilidad (5) riesgo (7) siguiente (7) squeeze (6) ttm (6) versa (14) 
+
+```
 tambien lo podemos ver en este artículo
 
 - https://www.novatostradingclub.com/contacto/preguntas-frecuentes/
