@@ -56,7 +56,7 @@ tambien lo podemos ver en este artículo
  bolsa (10) ca (11) consistente (6) cua (8) cuenta (7) dinero (9) email (8) formacia (15) ganador (7) ganar (6) hacer (6) mo (11) paypal (7) puedes (13) puedo (6) qua (11) quieres (7) tienes (6) trader (7) trading (24) 
  ```
   
-  Entrada de blog
+## Entrada de blog
 
 ambas páginas tienen blog 
 
