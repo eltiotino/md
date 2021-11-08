@@ -30,7 +30,7 @@ nos aparecen un monton de referencias a este blog que podrían ser como un enjam
 
 ## keyword suffing
 
-podría ser un keuword suffing pues tiene 46000 repeticiones de palabras
+podría ser un keyword suffing pues tiene 46000 repeticiones de palabras
 
   - site:https://www.x-trader.net  'bitcoin'
 lo podemos ver en alguna página
@@ -56,4 +56,10 @@ tambien lo podemos ver en este artículo
  ```
   
   Entrada de blog
+
+ambas páginas tienen blog 
+
+- https://www.x-trader.net/articulos/
+
+- https://www.novatostradingclub.com/blog/
 
