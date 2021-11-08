@@ -12,7 +12,7 @@ aunque quizás sean al exterior
   - https://www.x-trader.net/articulos/software-y-tecnologia/versa-la-inversion-inteligente.html
   - https://www.novatostradingclub.com/bitcoin/evento-presencial-en-a-coruna-como-invertir-en-bitcoin/
 
-estos bienes desde youtube
+estos vienen desde youtube
 
   - https://youtube.com/playlist?list=PLXptC7vrNA50WyqWOxEQI0KJcL_lfYorM
 
