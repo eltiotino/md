@@ -99,6 +99,63 @@ Lo mejor es poner todas las meta tags antes de hacer la web pública, para que G
 
 ### ejemplos
 
+Un ejemplo de los Metatags básico para una página web dedicada hosting y dominios de páginas web. Es muy sencillo de adaptar y solo debes incluir las siguientes 6 líneas de la siguiente manera:
+
+#### Titulo
+
+Este Metatag debe ir siempre por encima de los demás contenidos y elemento obligatorio en el encabezado del HTML. Se recomienda
+
+      <meta name=”Title” content=”ok hosting web”/>
+
+#### Descripción
+
+Describe el propósito principal de la página web.
+
+      <meta name=”Description” content=”Es  una Empresa de Hosting en México dedicada al Hospedaje Web, Registro de Dominios, Desarrollo de Software y Diseño de Páginas Web”/>
+
+#### Keywords o Palabras Claves
+
+Se incluyen las palabras claves que indexará Google para encontrar fácilmente sus contenidos. Nos permite tener la posibilidad de incluir y definir las palabras claves que vamos a proporcionar al buscador.
+
+Hoy en día ha sido minimizado por Google, y por consiguiente hay que evitar el abuso de dichas palabras.
+
+      <meta name=”Keywords” content=”Hosting, pagina web, pagines web, Dominios, Manuales, Hosting Compartido, México”/>
+
+#### Idioma
+
+Idioma principal de la página web, aunque Google proporciona herramientas para que este contenido sea traducido instantáneamente una vez el lector encuentre la página.
+
+      <meta name=”Language” content=”Spanish”/>
+
+#### Distribución
+
+La página web se podrá reducir si es únicamente para un país o una región. En este caso, aplica para todos los usuarios a nivel global.
+
+      <meta name=”Distribution” content=”Global”/>
+
+#### Robots o Bots
+
+Mostrará las indicaciones o instrucciones que hemos establecido para que Google indexe nuestra página web y sus contenidos. Existen diferentes opciones pero en este ejemplo básico, estamos indexando todo los contenidos y permite rastrear para continuar con los enlaces de la página web:
+
+      <meta name=”robots” content=”index,follow,all”/>
+
+Es importante anotar en este punto, que existen las opciones de Indexar o no Indexar, Rastrear o no Rastrear. Para mayor detalle de estas opciones, te recomendamos consultar que significa cada uno, ya que por defecto la mayoría de las páginas web usan el ejemplo que hemos incluido aquí (indexar y rastrear todo).
+
+#### Otros Metatags importantes
+
+    Codificación de Caracteres
+    Autor y Copyright
+
+#### Recomendaciones Finales
+
+  - Debes recordar que los Metatags deben ir siempre en el encabezado de la página web, dentro de la etiqueta <head>.
+  - El titulo no debe sobrepasar los 55 caracteres, ya que esto es lo máximo que pueden mostrar los buscadores.
+  - Es importante destacar que las palabras claves que se incluyan en el Metatags siempre estarán separadas por coma.
+
+ 
+
+Esperamos que esta información haya sido relevante para que aprendas sobre cómo construir Metatags manualmente para tu página web. Recuerda siempre iniciar con el ejemplo básico que hemos incluido y luego vas incluyendo otros conceptos más complejos para que tu página web sea indexada fácilmente por los buscadores.
+  
 ### herramientas
 
   Existen muchas herramientas pensadas para facilitarnos la vida a los que nos dedicamos al SEO. Como las meta tags son una de las partes más básicas de cualquier estrategia, la mayoría de las herramientas tienen opciones para que podamos incluir las etiquetas de una página sin necesidad de acceder al código. 
