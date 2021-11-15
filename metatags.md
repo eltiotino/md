@@ -141,11 +141,21 @@ Mostrará las indicaciones o instrucciones que hemos establecido para que Google
 
 Es importante anotar en este punto, que existen las opciones de Indexar o no Indexar, Rastrear o no Rastrear. Para mayor detalle de estas opciones, te recomendamos consultar que significa cada uno, ya que por defecto la mayoría de las páginas web usan el ejemplo que hemos incluido aquí (indexar y rastrear todo).
 
-#### Otros Metatags importantes
 
-    Codificación de Caracteres
-    Autor y Copyright
+#### Codificación de Caracteres
+  
+  Un chaset o conjunto de caracteres completo es básicamente un set de caracteres que reconoce el ordenador de la misma manera que una calculadora identifica números. Cada uno de los caracteres se representa con un número conocido como punto de código y esto crea un canal de comunicación para codificar y decodificar contenido. 
 
+Por lo tanto, un charset contiene caracteres que tienen un propósito específico o determinado. El ordenador almacena los caracteres como uno o más bytes. Un ejemplo es el conjunto de caracteres ASCII que representa todos los caracteres en inglés y los caracteres de control especiales con números del 0 al 127.
+
+Sin embargo, la mayoría de los charset solo funcionan para idiomas específicos y reconocen caracteres limitados, lo que dificulta o imposibilita la codificación. Sin embargo, en la actualidad, Unicode es el conjunto de caracteres más confiable y universalmente aceptado debido a su facilidad para traducir códigos y números.
+  
+      <meta charset=”utf-8>
+
+  El juego de caracteres no es un factor de clasificación para la optimización de los motores de búsqueda. La mayoría de los motores de búsqueda se enfocan en el importante objetivo de entregar contenido relevante y útil a quienes lo buscan y no considera otros factores externos que no contribuyan a ese objetivo.
+
+Por lo que tu charset es importante por la forma en que transmite la información, pero los motores de búsqueda no están interesados en ella. El uso de otros conjuntos de caracteres además de Utf-8 no disminuirá tu clasificación de SEO porque no importa qué codificación de caracteres uses, siempre que el motor de búsqueda pueda llevar información a los usuarios finales. 
+  
 #### Recomendaciones Finales
 
   - Debes recordar que los Metatags deben ir siempre en el encabezado de la página web, dentro de la etiqueta <head>.
