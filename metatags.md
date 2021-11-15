@@ -110,6 +110,8 @@ Lo mejor es poner todas las meta tags antes de hacer la web pública, para que G
  - **Screaming Frog**, una herramienta gratuita que nos permite analizar el SEO onpage de una web y nos da información detallada de varios factores, entre ellos las meta etiquetas.
  
  - **Google Webmaster Tools**, es la herramienta gratuita de Google. En el apartado “Aspecto de la búsqueda” nos da información sobre las meta etiquetas, así como consejos sobre cómo mejorarlas.
+  
+ -  **Crear metatags**: https://www.metatags.org/seo-tips/why-use-meta-tags/metatags-generator/
 
 Completar las meta tags de tu página web es uno de los primeros pasos para poner a punto el SEO de tu página. ¿Tienes algún truco para facilitar esta tarea? Si usas alguna herramienta que no haya mencionado o utilizas otras formas para ver si tienes bien puestas tus meta etiquetas, ¡cuéntamelo en los comentarios!
 
