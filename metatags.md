@@ -76,6 +76,12 @@ Una etiqueta de robots es un elemento en el código HTML de una página que info
 
 Por ejemplo: si tienes un contenido que no deseas indexar pero quieres mantenerlo, simplemente debes agregar una etiqueta noindex a esa página.
 
+  
+#### Open Graph
+
+Las etiquetas Open Graph, son un protocolo que nos permite indicar a las redes sociales que información mostrar cada vez que se comparta un enlace de nuestro sitio web.
+
+Aunque no tengan una relación directa con el SEO, sí son importantes a nivel usuario y a nivel marca, con lo que es recomendable prestarles atención ya que serán nuestra imagen en las redes sociales.
 
 
 
