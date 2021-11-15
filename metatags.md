@@ -10,6 +10,12 @@ Las metas tags proporcionan información adicional y específica a los motores d
 
 ### para que sirven
 
+Los meta tags tienen dos funciones: contribuir al posicionamiento orgánico de una página y servir de primera impresión para los usuarios que hagan una búsqueda en Google.
+
+A nivel de código, los robots de los motores de búsqueda leen, entre otras cosas, las meta etiquetas de una página para determinar el contenido de las mismas. Es, por tanto, uno de los factores que va a contribuir al buen o mal posicionamiento orgánico de nuestra página y una de las primeras cosas que va a leer Google al analizar nuestra web: los elementos meta se ponen en el <head> de cada página.
+
+A nivel de usuario, los metas son, como ya hemos visto en el ejemplo anterior, lo que muestra Google como resultados de búsqueda. Es decir, es nuestra carta de presentación ante un usuario que hace una búsqueda sobre un tema relacionado con nuestra web y es lo que va a convencerle o no para que haga clic en nuestro enlace. Por eso ambos tienen que ser muy descriptivos del contenido de la página, destacando los puntos clave que se tratan en ella y que puedan interesar más a un usuario.
+
 ### tipos de metatags
 
 #### Meta tag Title
@@ -75,7 +81,26 @@ Por ejemplo: si tienes un contenido que no deseas indexar pero quieres mantenerl
 
 ### gestion de los metadatos
 
+  **Límite de caracteres**. Las políticas de Google al respecto van cambiando y los caracteres máximos que permite también varían con el tiempo, así que es muy recomendable estar al día de los cambios del buscador para que no nos pille el toro. Ahora mismo, el máximo de caracteres para el title es de 55 y de 155 para la description. Es muy importante ceñirnos al máximo de caracteres permitido porque si no tanto el título como la descripción aparecerán cortados por puntos suspensivos.
+
+  **Palabras clave**. Tanto el título como la descripción tienen que incluir la palabra clave principal de la página, cuanto más cerca del comienzo mejor.
+
+  **No puede haber dos metas iguales**. Como siempre que hablamos de SEO, el contenido duplicado está muy penalizado por los motores de búsqueda. Por eso es muy importante crear meta etiquetas únicas para cada página, aunque el contenido sea muy parecido. Puede haber casos en los que una web tenga muchas páginas internas de contenido, por lo que sería una odisea crear una etiqueta personalizada para cada una. Un ejemplo sería una tienda online con un catálogo muy amplio. En esos casos se puede ser un poco más laxo con las metas tags y utilizar herramientas que nos ayuden como cogiendo texto de forma automática del contenido de la página.
+
+  **Redactar con sentido**, un usuario tiene que entender lo que queremos decir tan bien como un motor de búsqueda. Por eso no es recomendable las herramientas automáticas excepto para esos casos especiales, ya que probablemente el texto pierda sentido y quede cortado a la mitad.
+
+Lo mejor es poner todas las meta tags antes de hacer la web pública, para que Google indexe todo bien desde el principio. Cuando ya ha posicionado una página con unas metas, lleva más tiempo que las cambie. Por eso es mejor hacerlo bien desde el principio.
+
 ### ejemplos
 
 ### herramientas
+
+  Existen muchas herramientas pensadas para facilitarnos la vida a los que nos dedicamos al SEO. Como las meta tags son una de las partes más básicas de cualquier estrategia, la mayoría de las herramientas tienen opciones para que podamos incluir las etiquetas de una página sin necesidad de acceder al código. 
+
+    - **SEO by Yoast**, es un plugin de WordPress que te deja poner de una forma muy gráfica las metas a cada página y te marca el límite de caracteres para que veas cuándo has escrito de más. También te indica si has incluido o no la palabra clave.
+    - **All in One SEO Pack**, otro plugin para WordPress que nos da unas funcionalidades muy parecidas al anterior, solo que éste es un poco más sencillo de usar.
+    - **Screaming Frog**, una herramienta gratuita que nos permite analizar el SEO onpage de una web y nos da información detallada de varios factores, entre ellos las meta etiquetas.
+    - **Google Webmaster Tools**, es la herramienta gratuita de Google. En el apartado “Aspecto de la búsqueda” nos da información sobre las meta etiquetas, así como consejos sobre cómo mejorarlas.
+
+Completar las meta tags de tu página web es uno de los primeros pasos para poner a punto el SEO de tu página. ¿Tienes algún truco para facilitar esta tarea? Si usas alguna herramienta que no haya mencionado o utilizas otras formas para ver si tienes bien puestas tus meta etiquetas, ¡cuéntamelo en los comentarios!
 
