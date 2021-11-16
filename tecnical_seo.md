@@ -1,4 +1,26 @@
+
+
+- [tecnical seo](#tecnical-seo)
+  * [SEO on-page](#seo-on-page)
+    + [Contenido del sitio.](#contenido-del-sitio)
+    + [Optimización de palabras clave.](#optimizaci-n-de-palabras-clave)
+      - [Tipos de palabras clave:](#tipos-de-palabras-clave-)
+      - [Las intenciones de búsqueda](#las-intenciones-de-b-squeda)
+    + [Etiqueta de título.](#etiqueta-de-t-tulo)
+    + [Etiquetas de encabezado.](#etiquetas-de-encabezado)
+    + [Texto alternativo de la imagen.](#texto-alternativo-de-la-imagen)
+    + [Meta descripción.](#meta-descripci-n)
+  * [SEO off-page](#seo-off-page)
+  * [SEO técnico](#seo-t-cnico)
+  * [SEO local](#seo-local)
+  * [¿Dónde aprender más sobre SEO?](#-d-nde-aprender-m-s-sobre-seo-)
+  * [Velocidad de carga de la página](#velocidad-de-carga-de-la-p-gina)
+  * [compatibilidad para móviles](#compatibilidad-para-m-viles)
+  * [data markup helper](#data-markup-helper)
+
+
 # tecnical seo
+
 
 Para asegurarte de que aplicas las mejores prácticas de SEO, recapitulemos los cuatro tipos principales de SEO de los que hemos hablado anteriormente:
 
