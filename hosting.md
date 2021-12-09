@@ -91,6 +91,18 @@ La razón es que los recursos como la memoria RAM, el procesador, el ancho de ba
 
 Es útil en proyectos que tengan requerimientos y configuraciones específicas, y que necesiten mayores recursos del servidor, pero no puedan permitirse contratar un servidor dedicado.
 
+**Tabla Comparativa de alojamiento VPS gratis**
+
+| Proveedor | CPU | Memoria RAM | Espacio | Transferencia |
+| --------- | --- | ----------- | ------- | ------------- |
+| InstaFree |	1 CPU | 256MB |	5GB |	50GB |
+| WoomHost |	1 CPU | 1GB |	20GB |	1000GB |
+| GigaRocket | 1 CPU |	512MB |	10GB |	75GB |
+| OHosti |	0.5 CPU |	512MB |	25GB |	500GB |
+| Amazon |	1 CPU |	1GB |	20GB |	15GB |
+
+Aquí habría que hacer mencion a https://oracle.com que proporciona dos maquinas vps gratuitas.
+
 ### 3. Servidor Dedicado
 
 Es aquel cuyo uso exclusivo es de un solo cliente, por lo que el servidor no se comparte con otros proyectos.
