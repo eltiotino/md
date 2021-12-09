@@ -127,11 +127,32 @@ Ahora bien, si estás aquí es porque estás en la búsqueda de crear o mejorar 
 
 # CMS y Hosting
 
+## que es un CMS
+
+El término CMS proviene del inglés Content Management System, que significa Sistema de Gestión de Contenidos. Es un sistema online que nos permite poner en marcha un sitio web de forma práctica y rápida.
+
+Pero, no es únicamente eso, sino que su gran ventaja, como su nombre lo dice, es la posibilidad de administrar contenidos dinámicos de forma sencilla, es decir, mantener un blog, un ecommerce o cualquier otro tipo de página web que demande una actualización constante.
+
+Imagina tener que realizar de forma manual actualizaciones semanales o, incluso, diarias, sin duda no funcionaría.
+
+Para esto y mucho más, un CMS es la solución ideal para todos los que necesitan un sitio web que no sea 100% estático o momentáneo (o sea, hecho para permanecer funcionando por un breve período).
+
 Todo Sistema Gestor de Contenidos o CMS realiza el siguiente proceso de gestión:
 
 -  Creación de la información.- es el proceso mediante el cual el usuario genera una nueva información para ser puesta a disposición del publico. Se puede generar información de tipo texto, gráficos, imágenes, etc.
 -  Presentación de la información
 -  Publicación de la Información
 -  Mantenimiento de la Información.- es la actualización dentro de la cual se puede editar borrar un determinado contenido.
+
+**Ventajas**
+
+1. Facilidad de creación y mantenimiento
+2. Facilidad de uso
+3. Gran cantidad de recursos adicionales 
+4. Posibilidad de optimización para búsquedas orgánicas
+5. Versatilidad para proyectos de todo tipo y tamaño
+6. Buena velocidad de carga
+7. Bajos costos de actualización y mantenimiento
+
 
 Por ello es fundamental dentro de la estrategia de la empresa, ya sea para uso interno o para uso externo. A la vez hemos analizado la **importancia del hosting**
