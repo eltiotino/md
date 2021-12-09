@@ -27,15 +27,17 @@ Y, es clave tener en cuenta que su importancia radica en que:
 ## 4 tipos de hosting más usados
 
 Existen varios tipos de hosting, sin embargo a continuación te traemos los cuatro más importantes, conocidos y usados.
+
 ### 1. Hosting Compartido
 
 En este tipo de hosting (shared hosting) , se alojan varios sitios web en un mismo servidor. Así, todos los clientes del proveedor comparten los recursos de dicho servidor, como el CPU, procesador, memoria RAM, ancho de banda, dirección IP y/o la transferencia mensual de datos.
-Ventajas
+
+**Ventajas**
 
 -  es el más económico en el mercado;
 -  es fácil de manejar e instalar.
 
-Desventajas
+**Desventajas**
 
 -  si hay un problema en alguno de los proyectos alojados, esto puede afectar al resto;
 -  existe una menor flexibilidad;
@@ -50,25 +52,28 @@ Un VPS, es un servicio de almacenamiento web caracterizado por ser un servidor f
 Este tipo de hosting es un servicio superior a los hosting compartidos, ya que en este caso el rendimiento de las páginas web no se ve afectado.
 
 La razón es que los recursos como la memoria RAM, el procesador, el ancho de banda o la capacidad de transferencia de datos no son compartidos entre los múltiples usuarios. Sin embargo, no llega a ser un hosting dedicado.
-Ventajas
+
+**Ventajas**
 
 -  posee una mayor flexibilidad y acceso que el hosting compartido;
 -  si alguno de los proyectos tiene un problema, no afectará al resto;
 -  es una alternativa más económica que el hosting dedicado.
 
-Desventajas
+**Desventajas**
 
 -  solo dispone de una parte de los recursos totales de un servidor;
 -  es más costoso que el hosting compartido;
 -  normalmente son más difíciles de configurar y usar que el hosting compartido.
 
 Es útil en proyectos que tengan requerimientos y configuraciones específicas, y que necesiten mayores recursos del servidor, pero no puedan permitirse contratar un servidor dedicado.
+
 ### 3. Servidor Dedicado
 
 Es aquel cuyo uso exclusivo es de un solo cliente, por lo que el servidor no se comparte con otros proyectos.
 
 Además, ofrece acceso completo al hardware y al software de dicho servidor, por lo que permite adaptar sus capacidades a las necesidades específicas de cada usuario.
-Ventajas
+
+**Ventajas**
 
 -  el rendimiento no se ve afectado por el tráfico;
 -  permite que el sitio web pueda funcionar de manera óptima;
@@ -76,7 +81,7 @@ Ventajas
 -  tiene mayores recursos;
 -  posee una mayor seguridad.
 
-Desventajas
+**Desventajas**
 
 -  puede resultar bastante caro;
 -  es complicado de configurar y mantener.
@@ -95,7 +100,7 @@ Además, el hosting en la nube puede a su vez ser:
 -  hosting virtual (VPS),
 -  o, incluso, hosting dedicado.
 
-Ventajas
+**Ventajas**
 
 -  es más eficiente que el hosting dedicado;
 -  este servicio se adapta a las necesidades del proyecto en tiempo real;
@@ -103,7 +108,7 @@ Ventajas
 -  tiene gran capacidad de adaptación;
 -  al contar con el respaldo de varios servidores, ofrece una mayor seguridad.
 
-Desventajas
+**Desventajas**
 
 -  para su gestión se requiere conocimientos avanzados;
 -  su precio de entrada es elevado.
@@ -120,3 +125,13 @@ Además, considera que te debe garantizar seguridad y visibilidad, y que tambié
 
 Ahora bien, si estás aquí es porque estás en la búsqueda de crear o mejorar tu sitio web, ¿no es así?
 
+# CMS y Hosting
+
+Todo Sistema Gestor de Contenidos o CMS realiza el siguiente proceso de gestión:
+
+-  Creación de la información.- es el proceso mediante el cual el usuario genera una nueva información para ser puesta a disposición del publico. Se puede generar información de tipo texto, gráficos, imágenes, etc.
+-  Presentación de la información
+-  Publicación de la Información
+-  Mantenimiento de la Información.- es la actualización dentro de la cual se puede editar borrar un determinado contenido.
+
+Por ello es fundamental dentro de la estrategia de la empresa, ya sea para uso interno o para uso externo. A la vez hemos analizado la **importancia del hosting**
