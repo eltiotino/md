@@ -144,6 +144,8 @@ Todo Sistema Gestor de Contenidos o CMS realiza el siguiente proceso de gestión
 -  Publicación de la Información
 -  Mantenimiento de la Información.- es la actualización dentro de la cual se puede editar borrar un determinado contenido.
 
+Podemos clasificar
+
 **Ventajas**
 
 1. Facilidad de creación y mantenimiento
@@ -154,5 +156,28 @@ Todo Sistema Gestor de Contenidos o CMS realiza el siguiente proceso de gestión
 6. Buena velocidad de carga
 7. Bajos costos de actualización y mantenimiento
 
+## Tipos de CMS
+
+Según la qikipedia podemos clasificarlos por su uso como:
+
+-  Blogs: para páginas personales.
+-  Foros: para compartir opiniones.
+-  Wikis: para el desarrollo colaborativo.
+-  Enseñanza electrónica: plataforma para contenidos de enseñanza en línea.
+-  Comercio electrónico: plataforma de gestión de usuarios, catálogo, compras y pagos.
+-  Publicaciones digitales.
+-  Difusión de contenido multimedia.
+-  Propósito general.
+-  Aplicación móvil: plataformas de gestión de aplicaciones móviles.
+
+### Mejores CMS de Blogs
+
+Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código abierto
+
+|CMS| web | codigo abierto |
+|Blogger| www.blogger.com | no |
+|Movable Type| https://movabletype.org/ | no |
+|WordPress| https://wordpress.org/ | sí |
 
 Por ello es fundamental dentro de la estrategia de la empresa, ya sea para uso interno o para uso externo. A la vez hemos analizado la **importancia del hosting**
+
