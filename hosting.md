@@ -174,11 +174,11 @@ Según la qikipedia podemos clasificarlos por su uso como:
 
 Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código abierto
 
-| CMS | web | codigo abierto |
-| --- | --- | -------------- |
-|Blogger| www.blogger.com | no |
-|Movable Type| https://movabletype.org/ | no |
-|WordPress| https://wordpress.org/ | sí |
+| CMS | web | codigo abierto | hosting compartido |
+| --- | --- | -------------- |------------------- |
+|Blogger| www.blogger.com | no | sí |
+|Movable Type| https://movabletype.org/ | no | no |
+|WordPress| https://wordpress.org/ | sí | si |
 
 Por ello es fundamental dentro de la estrategia de la empresa, ya sea para uso interno o para uso externo. A la vez hemos analizado la **importancia del hosting**
 
