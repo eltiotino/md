@@ -180,5 +180,17 @@ Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código a
 |Movable Type| https://movabletype.org/ | no | no |
 |WordPress| https://wordpress.org/ | sí | si |
 
+### Mejores CMS de Foros
+
+Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código abierto
+
+| CMS | web | codigo abierto | hosting compartido |
+| --- | --- | -------------- |------------------- |
+| MyBB | https://mybb.com/ | sí | no |
+| phpBB | https://www.phpbb.com/ | si | no |
+| Simple Machines Forum | https://simplemachines.org/ | no | no |
+| bbPress | https://bbpress.org/ | sí | no |
+| vBulletin | https://www.vbulletin.com/es/ | no | si |
+  
 Por ello es fundamental dentro de la estrategia de la empresa, ya sea para uso interno o para uso externo. A la vez hemos analizado la **importancia del hosting**
 
