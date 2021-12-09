@@ -45,6 +45,30 @@ En este tipo de hosting (shared hosting) , se alojan varios sitios web en un mis
 
 Es recomendable en algunos proyectos que no requieran necesidades especiales y que no necesiten de mucho espacio para almacenar su información.
 
+Los mejores hostings compartidos son:
+
+| Hosting | Funciones incluidas | Soporte de asistencia | Seguridad | SSL |
+| ------- | ------------------- | --------------------- | --------- | --- |
+|Wp Engine | sí | sí | sí | sí |
+|Hostinger | si | si | si | no |
+|In Motion Hosting| si | si | sí | si |
+|Ipage| si | si | sí | si |
+|Fast Comet| si | si | sí | si |
+|Superb Internet| si | si | sí | si |
+|In Motion Hosting| si | si | sí | si |
+
+¿ Cual elijo ?
+
+| Host |	Característica sobresaliente |	$ |	Lo mejor para |	SSL gratuito | Dominio gratuito |
+| ---- | :-----------------------------: | :--: | :-------------: | :------------: | :----------------: |
+| WP Engine | Genesis Framework incluido y más de 35 temas de StudioPress (por un valor de 2000$) | $$$ |	Bloggers y empresas que utilizan WordPress. |	✔ | ✖ |
+|Hostinger | Zyro Builder con más de 200 plantillas y funciones de e-commerce | $ | Completos Principiantes |	En planes seleccionados |	✔ |
+| InMotion Hosting | Características de seguridad avanzadas |	$$ | Startups | centrados en la seguridad | ✔ | ✔ |
+| iPage | Generosos créditos publicitarios para que tu negocio destaque | $ | Empresas y organizaciones sin fines de lucro concienciadas con el medio ambiente | ✔ | ✔ |
+| FastComet | Dominio gratis para toda la vida de tu plan |	$$ | Empresas que manejan datos confidenciales | ✔ | ✔ |
+| Superb Internet | Plataforma Gridiron que le brinda la estabilidad de un servidor dedicado a precios bajos | $$ |	Empresas con un presupuesto que necesita el 100% de disponibilidad | ✔ | ✔ |
+
+
 ### 2. Hosting Privado Virtual (VPS)
 
 Un VPS, es un servicio de almacenamiento web caracterizado por ser un servidor físico fraccionado virtualmente de forma independiente, es decir, cada proyecto trabaja con su propio sistema operativo y no comparte recursos con otros.
