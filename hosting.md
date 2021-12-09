@@ -174,7 +174,8 @@ Según la qikipedia podemos clasificarlos por su uso como:
 
 Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código abierto
 
-|CMS| web | codigo abierto |
+| CMS | web | codigo abierto |
+| --- | --- | -------------- |
 |Blogger| www.blogger.com | no |
 |Movable Type| https://movabletype.org/ | no |
 |WordPress| https://wordpress.org/ | sí |
