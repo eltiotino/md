@@ -192,5 +192,42 @@ Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código a
 | bbPress | https://bbpress.org/ | sí | no |
 | vBulletin | https://www.vbulletin.com/es/ | no | si |
   
+  
+### Mejores CMS de Galería
+
+Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código abierto
+
+| CMS | web | codigo abierto | hosting compartido |
+| --- | --- | -------------- |------------------- |
+| Gallery | http://gallery.menalto.com/ | sí | no |
+
+
+### Mejores CMS de Educacion
+
+Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código abierto
+
+| CMS | web | codigo abierto | hosting compartido |
+| --- | --- | -------------- |------------------- |
+| moddle | https://moodle.org/ | sí | no |
+
+### Mejores CMS de Comercio
+
+Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código abierto
+
+| CMS | web | codigo abierto | hosting compartido |
+| --- | --- | -------------- |------------------- |
+| prestashop | https://github.com/PrestaShop | sí | no |
+| shopify | https://apps.shopify.com/ | no | si |
+| 
+
+### Mejores CMS de Portales
+
+Muchos de estos CMS tienen hosting compartido gratuito y pueden ser de código abierto
+
+| CMS | web | codigo abierto | hosting compartido |
+| --- | --- | -------------- |------------------- |
+| Joomla | https://www.joomla.org/3/es/ | sí | no |
+| mambo | https://www.mamboserver.com/ | si | no |
+  
 Por ello es fundamental dentro de la estrategia de la empresa, ya sea para uso interno o para uso externo. A la vez hemos analizado la **importancia del hosting**
 
